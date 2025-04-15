@@ -122,10 +122,12 @@ def plot_feature_importance(model, feature_names, top_n=10, fig_path=None, fig_s
     plt.xlabel('Importance', size=13)
     plt.ylabel('Feature', size=13)
     plt.title('Feature Importance of Band Gap', size=15)
-    if fig_show:
-        plt.show()
     # save the figure
     if fig_path:
         fig.savefig(fig_path, dpi=300, bbox_inches='tight')
         print(f"Figure saved to: {fig_path}")
+    if fig_show:
+        plt.show()
+    else:
+        plt.close(fig)
     return importances_df
