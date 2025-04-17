@@ -268,7 +268,9 @@ def element_prevalence(formulae,
                        save_dir=None,
                        log_scale=False,
                        ptable_fig=True):
+    
     ptable = pd.read_csv('ML_figures/element_properties/ptable.csv')
+    
     ptable.index = ptable['symbol'].values
     elem_tracker = ptable['count']
     n_row = ptable['row'].max()
