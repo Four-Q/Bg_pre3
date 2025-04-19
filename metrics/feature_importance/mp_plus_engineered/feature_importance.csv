@@ -1,0 +1,11 @@
+Feature,Importance
+MagpieData mode CovalentRadius_MagpieData minimum NpUnfilled_div,0.20151652
+MagpieData mode CovalentRadius_MagpieData minimum NpUnfilled_sub,0.16740045
+MagpieData mode CovalentRadius_MagpieData maximum Electronegativity_div,0.1658396
+MagpieData maximum Electronegativity_MagpieData minimum NpUnfilled_mul,0.02327406
+MagpieData maximum NUnfilled_sqrt,0.020205822
+MagpieData maximum NfUnfilled_MagpieData range Column_mul,0.01944623
+MagpieData mode CovalentRadius_MagpieData maximum Electronegativity_sub,0.017159905
+MagpieData maximum MendeleevNumber_exp,0.014230451
+MagpieData maximum Electronegativity_log,0.012080798
+efermi_exp,0.010136569
