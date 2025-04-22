@@ -1,0 +1,11 @@
+Feature,Importance
+mode ThermalConductivity,0.25530294
+mode HeatVaporization,0.14788309
+maximum Electronegativity,0.09598894
+minimum HeatVaporization,0.03890856
+minimum ThermalConductivity,0.033582587
+range NfUnfilled,0.01891636
+minimum GSestBCClatcnt,0.013798194
+minimum AtomicVolume,0.012056444
+minimum MolarVolume,0.011838472
+maximum NUnfilled,0.011719568

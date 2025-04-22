@@ -1,11 +1,11 @@
 Feature,Importance
-MagpieData mean MeltingT,517
-MagpieData avg_dev MeltingT,501
-MagpieData avg_dev GSvolume_pa,485
-MagpieData avg_dev Electronegativity,481
-MagpieData mean NUnfilled,457
-MagpieData avg_dev NUnfilled,445
-MagpieData avg_dev SpaceGroupNumber,435
-MagpieData avg_dev NValence,420
-MagpieData mean Electronegativity,402
-MagpieData avg_dev CovalentRadius,396
+avg_dev GSenergy_pa,292
+mean HeatFusion,291
+avg_dev ElectronAffinity,284
+avg_dev Density,263
+mean ThermalConductivity,263
+avg_dev HeatFusion,253
+mean GSenergy_pa,251
+avg_dev ThermalConductivity,248
+avg_dev NUnfilled,248
+avg_dev LogThermalConductivity,247

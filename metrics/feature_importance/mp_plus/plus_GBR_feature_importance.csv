@@ -1,0 +1,11 @@
+Feature,Importance
+efermi,0.07509259622542801
+mode LogThermalConductivity,0.05852702394450263
+mode ThermalConductivity,0.0376125231325403
+formation_energy_per_atom,0.02521445363642077
+minimum ThermalConductivity,0.022921671431593654
+mean Density,0.021571689240365764
+mode HeatVaporization,0.01911586963083742
+maximum Electronegativity,0.01789362063841873
+minimum AtomicVolume,0.015394509748619178
+minimum MolarVolume,0.01495708165036279

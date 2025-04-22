@@ -1,0 +1,11 @@
+Feature,Importance
+efermi,0.052188689308548065
+minimum LogThermalConductivity,0.03480137489166654
+mode LogThermalConductivity,0.028564899328546747
+mean Density,0.02245746426967496
+mean AtomicVolume,0.019687318088039925
+mean LogThermalConductivity,0.019665349660199918
+range AtomicVolume,0.01733882450676384
+range LogThermalConductivity,0.017276318171162833
+maximum ThermalConductivity,0.015616828768873943
+minimum MolarVolume,0.015545016768539864

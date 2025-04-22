@@ -1,11 +1,11 @@
 Feature,Importance
-MagpieData maximum Electronegativity,0.04349534964251026
-MagpieData mean MeltingT,0.03877522389312048
-MagpieData mode CovalentRadius,0.0345034473469268
-MagpieData minimum CovalentRadius,0.023112073340448125
-MagpieData range MeltingT,0.020581089614262395
-MagpieData maximum MeltingT,0.020268258432136352
-MagpieData mean NpUnfilled,0.01933990043442327
-MagpieData avg_dev MeltingT,0.01909012667124083
-MagpieData mean NdValence,0.01845864831131621
-MagpieData range Electronegativity,0.017188131196769475
+mode LogThermalConductivity,0.03465897751100562
+mode ThermalConductivity,0.02629883208295002
+mean Density,0.02575478246402447
+mode HeatVaporization,0.025082290782922016
+minimum LogThermalConductivity,0.024778458587384432
+minimum ThermalConductivity,0.022295316000427258
+mean MeltingT,0.019107551506193435
+minimum HeatVaporization,0.018469586958017987
+maximum Electronegativity,0.017690080825479505
+mean BoilingT,0.017030812806002972
