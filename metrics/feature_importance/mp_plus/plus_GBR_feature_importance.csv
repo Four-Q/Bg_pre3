@@ -1,11 +1,11 @@
 Feature,Importance
-efermi,0.07509259622542801
-mode LogThermalConductivity,0.05852702394450263
-mode ThermalConductivity,0.0376125231325403
-formation_energy_per_atom,0.02521445363642077
-minimum ThermalConductivity,0.022921671431593654
-mean Density,0.021571689240365764
-mode HeatVaporization,0.01911586963083742
-maximum Electronegativity,0.01789362063841873
-minimum AtomicVolume,0.015394509748619178
-minimum MolarVolume,0.01495708165036279
+efermi,0.09699210031710954
+mode CovalentRadius,0.047229569180579765
+formation_energy_per_atom,0.04134570260916493
+minimum CovalentRadius,0.0408725510534475
+mean MeltingT,0.025247375094848614
+maximum Electronegativity,0.024296876217864517
+mean NpUnfilled,0.02397285089301146
+range MeltingT,0.021077235729050316
+density,0.01988605432299942
+maximum MeltingT,0.015836845863615927

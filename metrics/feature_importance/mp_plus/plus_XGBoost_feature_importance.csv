@@ -1,11 +1,11 @@
 Feature,Importance
-mode ThermalConductivity,0.25530294
-mode HeatVaporization,0.14788309
-maximum Electronegativity,0.09598894
-minimum HeatVaporization,0.03890856
-minimum ThermalConductivity,0.033582587
-range NfUnfilled,0.01891636
-minimum GSestBCClatcnt,0.013798194
-minimum AtomicVolume,0.012056444
-minimum MolarVolume,0.011838472
-maximum NUnfilled,0.011719568
+mode CovalentRadius,0.3216408
+maximum Electronegativity,0.14580442
+mode AtomicWeight,0.044933412
+is_oxide,0.03167656
+range NfUnfilled,0.031255465
+maximum NUnfilled,0.01839245
+maximum MendeleevNumber,0.017258348
+maximum NfUnfilled,0.015340347
+minimum CovalentRadius,0.0147095
+efermi,0.013821535

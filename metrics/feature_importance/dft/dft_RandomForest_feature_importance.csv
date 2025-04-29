@@ -1,11 +1,11 @@
 Feature,Importance
-mode LogThermalConductivity,0.03465897751100562
-mode ThermalConductivity,0.02629883208295002
-mean Density,0.02575478246402447
-mode HeatVaporization,0.025082290782922016
-minimum LogThermalConductivity,0.024778458587384432
-minimum ThermalConductivity,0.022295316000427258
-mean MeltingT,0.019107551506193435
-minimum HeatVaporization,0.018469586958017987
-maximum Electronegativity,0.017690080825479505
-mean BoilingT,0.017030812806002972
+maximum Electronegativity,0.043713199830482705
+mean MeltingT,0.04134462663177466
+mode CovalentRadius,0.0392054796815559
+minimum CovalentRadius,0.02633411566922487
+range MeltingT,0.022664617740117163
+maximum MeltingT,0.021289266066375174
+mean NpUnfilled,0.02118346980669761
+mean NdValence,0.02100741774671586
+mean Row,0.01964504567468427
+avg_dev MeltingT,0.018921305148679117
